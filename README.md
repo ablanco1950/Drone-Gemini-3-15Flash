@@ -23,3 +23,8 @@ Test.py
 The program displays the images one by one. To continue, close the image and press Enter.
 
 By changing line 81 of the program, you can test any image folder.
+
+Also, you can test the capabilities of Gemini-3-5-flash through this Roboflow page:
+
+https://playground.roboflow.com/models/google/gemini-3-5-flash?utm_campaign=Newsletter+-+5%2F21%2F2026+-+%5Bcvpr%5D&utm_content=Newsletter+-5%2F21%2F2026+-+cvpr&utm_medium=email_action&utm_source=email
+
