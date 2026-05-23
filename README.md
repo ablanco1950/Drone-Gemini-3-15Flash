@@ -2,7 +2,10 @@
 Drone detection using Gemini-3-15Flash from a Python program. Based on tests performed until the free trial was exhausted, it could be considered a zero-failures version.
 
 Installation:
-Install the official Google Gen AI and Pydantic SDKs, which we will use to define the exact detection structure: `pip install google-genai pydantic pillow`
+Install the official Google Gen AI and Pydantic SDKs, which we will use to define the exact detection structure:
+
+pip install google-genai pydantic pillow
+
 A requirements.txt file is included.
 
 Obtain the Google API key at:
